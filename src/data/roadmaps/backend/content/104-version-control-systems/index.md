@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [Git](https://git-scm.com/)
 - [What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [Version Control by Simplilearn](https://youtu.be/Yc8sCSeMhi4?feature=shared)
